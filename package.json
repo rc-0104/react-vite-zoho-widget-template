@@ -1,8 +1,10 @@
 {
-  "name": "vite-template-widget-app",
+  "name": "zoho-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "license": "",
+  "author": "rica.harivonjy@brainsolutions.be",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
